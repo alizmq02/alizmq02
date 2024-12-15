@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Alqutayfi</h1>
-<h3 align="center">A passionate Software Engineering student with extensive skills and knowledge within the field of Software Engineering, Artificial Intelligence, and Web Engineering .</h3>
+<h1>Hi 👋, I'm Ali Alqutayfi</h1>
+<h3>A passionate Software Engineering student with extensive skills and knowledge within the field of Software Engineering, Artificial Intelligence, and Web Engineering .</h3>
 
 - 🔭 I’m currently working on **Eco3D**
 
