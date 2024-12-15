@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Software Engineering, using and building AI, and Web Engineering**
 
-- 📝 I am doing research on **AI, Computer Vision, Medical Imaging**
+- 📝 I am doing research on **AI, Computer Vision, and Medical Imaging**
 
 - ⚡ Fun fact **I like to play football, and volleyball**
 
