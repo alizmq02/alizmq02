@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **Software Engineering, using and building AI, and Web Engineering**
 
-- 📫 How to reach me **alizmq02@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ali-alqutayfi/](https://www.linkedin.com/in/ali-alqutayfi/)
+- 📝 I am doing research on **AI, Computer Vision, Medical Imaging**
 
 - ⚡ Fun fact **I like to play football, and volleyball**
 
