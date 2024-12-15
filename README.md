@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud Services**
 
-- 👯 I’m looking to collaborate on **working on exciting prjects**
+- 👯 I’m looking to collaborate in **working on exciting projects**
 
 - 🤝 I’m available for consultations on **any AI-related work or project**
 
